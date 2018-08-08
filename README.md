@@ -1,6 +1,6 @@
 # Ethereum Swarm Proxy for SPAs
 
-Frameworks such Vuejs, Angular etc. rely on absolute paths to resolve static assets.
+Frameworks such Vuejs, Angular etc. rely on `current_uri + relative` paths to resolve static assets.
 
 ### The Problem
 
